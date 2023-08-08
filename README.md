@@ -3,9 +3,12 @@ A simple POS Software created using Java Swing and JDBC.
 
 Summary:
 
-IDE: NetBeans IDE 
-Front-End: Java Swing
-Back-End: JDBC
+<ol>
+  <li>IDE: NetBeans IDE</li>
+<li>Front-End: Java Swing</li>
+<li>Back-End: JDBC</li>
+</ol>
+
 
 It is a very simple POS Software made using Java.
 You need to have a Database with all the product information stored in.
